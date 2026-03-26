@@ -154,7 +154,7 @@ export default function ContactPage() {
                 </a>
 
                 <a
-                  href="https://line.me/ti/p/nps_fah"
+                  href="https://line.me/ti/p/~nps_fah"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="hover:text-green-500 transition"
@@ -330,7 +330,7 @@ export default function ContactPage() {
                 </a>
 
                 <a
-                  href="https://line.me/ti/p/nps_fah"
+                  href="https://line.me/ti/p/~nps_fah"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="hover:text-green-500 transition"
@@ -1561,7 +1561,7 @@ export default function ContactPage() {
                 </a>
 
                 <a
-                  href="https://line.me/ti/p/nps_fah"
+                  href="https://line.me/ti/p/~nps_fah"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="hover:text-green-500 transition"
