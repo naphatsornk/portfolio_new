@@ -212,7 +212,7 @@ export default function ContactPage() {
               >
 
                 <Image
-                  src="/IMG_5641.jpg"
+                  src="/S__36724745.jpg"
                   alt="profile"
                   width={400}
                   height={400}
